@@ -1,10 +1,4 @@
 # Bárbara Martins ⚡
-<script type="text/javascript">
-        //Constrói a URL depois que o DOM estiver pronto &summary=[RESUMO]&source=[NOME-DA-FONTE]
-        //Constrói a URL depois que o DOM estiver pronto
-        document.addEventListener("DOMContentLoaded", function() {
-            var url = encodeURIComponent(window.location.href); //url
-            var titulo = encodeURIComponent(document.title); //título
 
 ##Sobre mim
 Especialista em Gestão Pública. Mestre em Filosofia pelo Programa de Pós-Graduação em Filosofia da Universidade do Estado do Rio de Janeiro (PPGFIL/UERJ) e Bacharel em Filosofia pela mesma instituição. Graduanda em Ciência de Dados pela Universidade Estácio de Sá. 
