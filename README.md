@@ -10,6 +10,9 @@ Sólida formação em pesquisa, visualização de dados, resolução de problema
 Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na área de dados, auxiliando empresas a solucionar problemas de negócio através de análises eficientes e assertivas.
 
 ## Habilidades Técnicas
+<a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 
 # Projetos
 
