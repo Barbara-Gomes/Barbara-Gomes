@@ -13,5 +13,5 @@ Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na áre
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white&style=for-the-badge)
 
 #  Projetos :bar_chart:
-## :globe_with_meridians: Mapa de Unidades [[Qualifica-SP | Meu Primeiro Emprego]](https://github.com/Barbara-Gomes/Mapa-Meu-Primeiro-Emprego)
+## :globe_with_meridians: [Mapa de Unidades [Qualifica-SP | Meu Primeiro Emprego]](https://github.com/Barbara-Gomes/Mapa-Meu-Primeiro-Emprego)
 Manipulação de dados no Microsoft Excel, para servir de base ao Mapa de Unidades de Ensino do programa de qualificação profissional Meu Primeiro Emprego, uma iniciativa do Governo do Estado de São Paulo voltada a jovens entre 16 e 24 anos.
