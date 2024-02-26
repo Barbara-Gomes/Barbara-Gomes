@@ -15,3 +15,6 @@ Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na áre
 #  Projetos :bar_chart:
 ## :globe_with_meridians: [Mapa de Unidades de Ensino [Qualifica-SP | Meu Primeiro Emprego]](https://github.com/Barbara-Gomes/Mapa-Meu-Primeiro-Emprego)
 Manipulação de dados no Microsoft Excel, para servir de base ao Mapa de Unidades de Ensino do programa de qualificação profissional Meu Primeiro Emprego, uma iniciativa do Governo do Estado de São Paulo voltada a jovens entre 16 e 24 anos. O trabalho já contabiliza mais de 93 mil visualizações.
+
+## :chart_with_upwards_trend: [Painel de Monitoramento de Inscrições [Qualifica-SP | Meu Primeiro Emprego]] (https://github.com/Barbara-Gomes/Painel-de-Monitoramento-Meu-Primeiro-Emprego)
+Construção de um painel de visualização de dados no Power-BI, para monitoramento e avaliação do número de inscrições no Programa Qualifica-SP | Meu Primeiro Emprego. 
