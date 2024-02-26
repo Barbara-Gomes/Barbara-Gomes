@@ -1,3 +1,5 @@
+<div align="justify">
+  
 #  Bárbara Martins ⚡
 
 ## Sobre mim
@@ -18,3 +20,5 @@ Manipulação de dados no Microsoft Excel, para servir de base ao Mapa de Unidad
 
 ## :chart_with_upwards_trend: [Painel de Monitoramento de Inscrições [Qualifica-SP | Meu Primeiro Emprego]](https://github.com/Barbara-Gomes/Painel-de-Monitoramento-Meu-Primeiro-Emprego)
 Construção de um painel de visualização de dados no Power-BI, para monitoramento e avaliação do número de inscrições no Programa Qualifica-SP | Meu Primeiro Emprego. Utilizamos dados extraídos via SGCP, manipulados no Excel.
+
+<div>
