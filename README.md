@@ -24,18 +24,19 @@ Construção de um painel de visualização de dados no Power-BI, para monitoram
 ## :mag: Pesquisa e Consolidação de Dados Públicos [CETTPRO | SDE-SP]
 Pesquisa de dados públicos sobre os municípios de São Paulo e consolidação em arquivo xlsx. O documento foi utilizado diariamente pela Coordenadoria de Ensino Técnico, Tecnológico e Profissionalizante (CETTPRO), como base de referência na construção de outras planilhas, painéis de visualização de dados, pesquisas rápidas e divisão de tarefas.
 
+## :office: Painel de Gestão Estratégica [Gabinete da Secretaria de Desenvolvimento Econômico de São Paulo]
+Construção de um painel de dados estratégicos para auxiliar tomadas de decisão do Gabinete, utilizando Power-BI. Manipulamos e modelamos bases de dados de todas as coordenadorias da Secretaria de Desenvolvimento Econômico, além de dados públicos sobre a economia estadual e regional.
+
 ## :chart_with_upwards_trend: Painel de Monitoramento de Inscrições [Qualifica-SP | Novo Emprego]
 Construção de um painel de visualização de dados no Power-BI, para monitoramento e avaliação das inscrições no programa Qualifica-SP | Novo emprego, que oferece qualificação profissional rápida e gratuita ao público entre 25 e 59 anos. Uma iniciativa do Governo do Estado de São Paulo que têm por objetivo a recolocação ou evolução dos participantes no mercado de trabalho.
 
-## :office: [Painel de Gestão Estratégica [Gabinete da Secretaria de Desenvolvimento Econômico de São Paulo]
-Construção de um painel de visualização de dados no Power-BI, para auxiliar tomadas de decisão do Gabinete. Utilizamos bases de dados de todas as coordenadorias da Secretaria do Desenvolvimento Econômico, além de dados públicos sobre a economia estadual e regional.
+## :inbox_tray: Framework: Automatização e Dicionário de dados [CETTPRO | SDE]
+Manipulação de dados no Microsoft Excel, para automatizar a consulta de dados segmentados por município. Trata-se de um produto do GT de Vocações Regionais da CETTPRO, que resultou em uma ferramenta para auxiliar na Análise Econômica Regional e, posteriormente, na decisão das ofertas de qualificação profissional para cada município do estado de São Paulo. Criamos também um dicionário de dados para consolidar os metadados dos valores inseridos.
 
 ## :chart_with_upwards_trend: Painel de Monitoramento de Inscrições [Qualifica-SP | Empreenda]
-Construção de um painel de visualização de dados no Power-BI, para monitoramento e avaliação das inscrições no piloto do programa Qualifica-SP | Empreenda, que oferece qualificação, mentoria e possibilidade de crédito a empreendedores informais ou com empresas de pequeno porte. A modalidade tinha por objetivo diminuir a inadimplência relativa aos empréstimos realizados no Banco do Povo.
+Construção de um painel de visualização de dados no Power-BI, para monitoramento e avaliação das inscrições no piloto do programa Qualifica-SP | Empreenda, que oferece qualificação, mentoria e possibilidade de crédito a empreendedores informais ou com empresas de pequeno porte. A modalidade tinha por objetivo diminuir a inadimplência relativa aos empréstimos realizados no Banco do Povo e impusionar a economia local.
 
 ## :pencil: Mapeamento de Processos [CETTPRO | SDE]
-
-
-## :inbox_tray: Framework: Automatização e Dicionário de dados [CETTPRO | SDE]
+Esquematização do fluxo de processos das políticas públicas da Coordenadoria de Ensino Técnico, Tecnológico e Profissionalizante da Secretaria de Desenvolvimento Econômico; para identificar entraves e possíveis melhorias, documentar o seu funcionamento e fortalecer a gestão do conhecimento na instituição. O produto final consistiu em um documento escrito, com o histórico do programa, e um fluxograma para cada modalidade.
 
 <div>
