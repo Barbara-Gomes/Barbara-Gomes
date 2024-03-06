@@ -30,6 +30,9 @@ Construção de um painel de dados estratégicos para auxiliar tomadas de decis�
 ## :chart_with_upwards_trend: Painel de Monitoramento de Inscrições [Qualifica-SP | Novo Emprego]
 Construção de um painel de visualização de dados no Power-BI, para monitoramento e avaliação das inscrições no programa Qualifica-SP | Novo emprego, que oferece qualificação profissional rápida e gratuita ao público entre 25 e 59 anos. Uma iniciativa do Governo do Estado de São Paulo que têm por objetivo a recolocação ou evolução dos participantes no mercado de trabalho.
 
+## :abc: [Cartilha Informativa [Guia Painel de Dados]](https://github.com/Barbara-Gomes/Guia-Painel-de-Dados)
+Cartilha informativa elaborada no Canva. Uma iniciativa do GT Dados e Mapas | CETTPRO-SDE, para nivelar expectativas dos funcionários da coordenadoria e facilitar o processo de solicitações de painéis de dados construídos no Power-BI.
+
 ## :inbox_tray: Framework: Automatização e Dicionário de dados [CETTPRO | SDE]
 Manipulação de dados no Microsoft Excel, para automatizar a consulta de dados segmentados por município. Trata-se de um produto do GT de Vocações Regionais da CETTPRO, que resultou em uma ferramenta para auxiliar na Análise Econômica Regional e, posteriormente, na decisão das ofertas de qualificação profissional para cada município do estado de São Paulo. Criamos também um dicionário de dados para consolidar os metadados dos valores inseridos.
 
